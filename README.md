@@ -1,3 +1,1 @@
-# DRF-TestLoginSetUp
 
-test
